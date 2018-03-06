@@ -1,6 +1,6 @@
 {% set name = "django-cruds-adminlte" %}
-{% set version = "0.0.9" %}
-{% set sha256 = "12c0791ae60f0e68f8ee24e06a208cd95ffce353483faced6d698fec3846b9b3" %}
+{% set version = "0.0.11" %}
+{% set sha256 = "a74b5ead6409b778e998d68d8b81959529711d10d2e4511c2465236f5474f17b" %}
 
 package:
   name: {{ name|lower }}
