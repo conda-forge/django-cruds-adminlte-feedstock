@@ -14,12 +14,15 @@ django-cruds-adminlte is simple drop-in django app that creates CRUD (Create, re
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/django-cruds-adminlte-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/django-cruds-adminlte-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/django-cruds-adminlte-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/django-cruds-adminlte-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/django-cruds-adminlte/badges/version.svg)](https://anaconda.org/conda-forge/django-cruds-adminlte)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/django-cruds-adminlte/badges/downloads.svg)](https://anaconda.org/conda-forge/django-cruds-adminlte)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-django--cruds--adminlte-green.svg)](https://anaconda.org/conda-forge/django-cruds-adminlte) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/django-cruds-adminlte.svg)](https://anaconda.org/conda-forge/django-cruds-adminlte) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/django-cruds-adminlte.svg)](https://anaconda.org/conda-forge/django-cruds-adminlte) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/django-cruds-adminlte.svg)](https://anaconda.org/conda-forge/django-cruds-adminlte) |
 
 Installing django-cruds-adminlte
 ================================
