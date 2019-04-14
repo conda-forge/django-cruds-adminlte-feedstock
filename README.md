@@ -1,7 +1,3 @@
-<!--
-# -*- mode: jinja -*-
--->
-
 About django-cruds-adminlte
 ===========================
 
@@ -18,8 +14,14 @@ django-cruds-adminlte is simple drop-in django app that creates CRUD (Create, re
 Current build status
 ====================
 
-All platforms:
-[![noarch](https://img.shields.io/circleci/project/github/conda-forge/django-cruds-adminlte-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/django-cruds-adminlte-feedstock)
+
+<table><tr>
+    <td>All platforms:</td>
+    <td>
+      <img src="https://img.shields.io/badge/noarch-disabled-lightgrey.svg" alt="noarch disabled">
+    </td>
+  </tr>
+</table>
 
 Current release info
 ====================
